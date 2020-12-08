@@ -1,2 +1,2 @@
 # VR-Soldier-Doc
-Documentation and details
+## We are focusing on augmenting soldier performance through Virtual Reality.
