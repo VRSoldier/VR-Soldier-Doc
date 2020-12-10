@@ -2,3 +2,12 @@
 ## We are focusing on augmenting soldier performance through Virtual Reality.
 
 Developed VR environments recreate the actual war scenes in virtual, yet safe world. This way, soldiers get trained on the 3D mapped VR area before going to the actual operations
+
+#### Virtual Reality Trainings 
+> Trainings before war, recreating dangerous, life-threatening environments while providing a safe environment, also capturing performance of soldiers
+
+#### 3D Mapping with Virtual Reality 
+> 3D modelling of the area and training on mapping information before operations
+
+#### Medic applications of VR war environments
+> Usage in the rehabilitation of war caused psychological conditions 
