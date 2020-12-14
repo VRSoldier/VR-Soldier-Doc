@@ -1,6 +1,6 @@
 # VR-Soldier-Doc
 ## We are focusing on augmenting soldier performance through Virtual Reality.
-![https://github.com/VRSoldier/VR-Soldier-Doc/blob/main/logo-removebg-preview.png]("https://github.com/VRSoldier/VR-Soldier-Doc/blob/main/logo-removebg-preview.png")
+![https://github.com/VRSoldier/VR-Soldier-Doc/blob/main/logo-removebg-preview.png](https://github.com/VRSoldier/VR-Soldier-Doc/blob/main/logo-removebg-preview.png)
 Developed VR environments recreate the actual war scenes in virtual, yet safe world. This way, soldiers get trained on the 3D mapped VR area before going to the actual operations
 
 #### Virtual Reality Trainings 
