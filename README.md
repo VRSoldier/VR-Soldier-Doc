@@ -13,6 +13,9 @@ Developed VR environments recreate the actual war scenes in virtual, yet safe wo
 #### Medic applications of VR war environments
 > Usage in the rehabilitation of war caused psychological conditions 
 
+### Global Expected Growth in VR Market 
+100 B
+
 by
 
 ![https://github.com/VRSoldier/VR-Soldier-Doc/blob/main/logo-removebg-preview.png](https://github.com/VRSoldier/VR-Soldier-Doc/blob/main/logo-removebg-preview.png)
